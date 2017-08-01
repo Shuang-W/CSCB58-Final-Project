@@ -1,3 +1,5 @@
+//Pixels' location and color information
+//First 8 bits for X, Second 8 bits for Y, last 3 bits for color(RGB)
 1: 0000100000001000110        [1025: 1007]  [1009: 1007]
 2: 0000110000001000110        [1006: 988]  [990: 988]
 3: 0001000000001000110        [987: 969]  [971: 969]
